@@ -1,5 +1,5 @@
 === Simple WP Maintenance Mode ===
-Contributors: WSI
+Contributors: lucascaires
 Tags: maintenance mode, simple maintenance mode, maintenance, wordpress maintenance, maintance, maintence
 Requires at least: 3.0
 Tested up to: 4.1
